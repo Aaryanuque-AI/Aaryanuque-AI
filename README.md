@@ -30,6 +30,7 @@
   </tr>
   <tr>
     <td align="center">
+      <img src="https://github.com/Aaryanuque-AI/Aaryanuque-AI/raw/b6f7be2729d8b9297c204b924ba3d3ac3ed01cd6/git_desk.png" width="48" />
       <img src="https://skillicons.dev/icons?i=github" width="48" />
       <img src="https://skillicons.dev/icons?i=git" width="48" /><br/>
       <img src="https://skillicons.dev/icons?i=vscode" width="48" />
