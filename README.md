@@ -12,11 +12,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Aaryanuque-AI?style=flat&logo=github&logoColor=white&labelColor=0d1117&color=0d1117" />
-  <img src="https://img.shields.io/github/stars/Aaryanuque-AI?style=flat&logo=github&logoColor=white&labelColor=0d1117&color=0d1117" />
+  <img src="https://img.shields.io/github/followers/Aaryanuque-AI?label=Followers&style=flat&logo=github&logoColor=white&labelColor=0d1117&color=0d1117&cacheSeconds=30" />
+  <img src="https://img.shields.io/github/stars/Aaryanuque-AI/Aaryanuque-AI?label=Repo%20Stars&style=flat&logo=github&logoColor=white&labelColor=0d1117&color=0d1117&cacheSeconds=30" />
   <img src="https://img.shields.io/github/last-commit/Aaryanuque-AI/Aaryanuque-AI?style=flat&logo=git&logoColor=white&labelColor=0d1117&color=0d1117" />
 </p>
-
 
 <p>─────────────────────────────────────────────────────────────────────────────────────</p>
 
